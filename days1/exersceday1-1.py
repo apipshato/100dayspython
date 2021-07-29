@@ -1,10 +1,10 @@
-#exercise 1
-print("afif shato ganteng")
+#exercise 1-1
+# print("afif shato ganteng")
 
-#exercise2
+#exercise1-2
 
-print(len("apip sangat ganteng"))
+# print(len("apip sangat ganteng"))
 
-my_name="afif shato"    
-
-
+#exercise 2-1
+name=input("what is your name")
+print(name)
