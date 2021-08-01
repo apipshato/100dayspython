@@ -15,3 +15,4 @@ elif bmi > 35:
         print(f"your bmi {bmi}, they are clinicaly obess")
 else:
     print(f"your bmi {bmi}, your clinically obese danger ")
+k
