@@ -17,5 +17,9 @@ if add_paperoni == "Y":
         bill += 2
     else:
         bill +=3
+if extra_chesse == "Y":
+    bill += 1
+
+print(f"your final bill is ${bill}")
 
 
