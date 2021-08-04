@@ -13,6 +13,9 @@ horizontal=position[0]
 vertical=position[1]
 
 
+print(map[vertical])
+
+
 
 
 #Write your code above this row 👆
