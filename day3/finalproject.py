@@ -8,11 +8,13 @@ if choice1 == "left":
    if choice2 == "wait":
        choice3=input("you arrive at islan unharmed,  there is house 3 doors one red, one yellow one blue")
        if choice3 == "red":
-           print("your room full of fire")
-        elif choice3 == "yellow":
-        elif choice3 =="blue"":
+            print("your room full of fire")
+       elif choice3 == "yellow":
+            print("ypu found the treasure you wins")
+       elif choice3 =="blue":
+            print("you enter room of beast you lose")
 else:
-
+ print("you got attacked by an angry trout, game over")
 
 else:
     print("you fell into the hole, game over")
