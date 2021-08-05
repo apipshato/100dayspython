@@ -13,9 +13,11 @@ for height in student_heights:
 number_of_student=0
 for student in student_heights:
     number_of_student += 1
+    print(number_of_student)
 # total_height=sum(student_heights)
 # number_of_student=len(student_heights)
 avarage_height=round(total_height / number_of_student)
 print(avarage_height)
+
 
 
